@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-14T12:54:37 IST" name="Default suite" finished-at="2023-07-14T12:55:23 IST" duration-ms="45924">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T12:54:37 IST" name="Default test" finished-at="2023-07-14T12:55:23 IST" duration-ms="45924">
+      <class name="TestScenarios.Navigation$TestSA_RemoteValLogin">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:TestScenarios.Navigation$TestSA_RemoteValLogin@48e1f6c7]" started-at="2023-07-14T12:54:37 IST" name="beforetest" finished-at="2023-07-14T12:54:47 IST" duration-ms="10247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="NavigateToFacebook()[pri:1, instance:TestScenarios.Navigation$TestSA_RemoteValLogin@48e1f6c7]" started-at="2023-07-14T12:54:47 IST" name="NavigateToFacebook" finished-at="2023-07-14T12:54:56 IST" duration-ms="9136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToFacebook -->
+        <test-method signature="NavigateBack()[pri:2, instance:TestScenarios.Navigation$TestSA_RemoteValLogin@48e1f6c7]" started-at="2023-07-14T12:54:56 IST" name="NavigateBack" finished-at="2023-07-14T12:55:06 IST" duration-ms="10093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateBack -->
+        <test-method signature="NavigateForword()[pri:3, instance:TestScenarios.Navigation$TestSA_RemoteValLogin@48e1f6c7]" started-at="2023-07-14T12:55:06 IST" name="NavigateForword" finished-at="2023-07-14T12:55:23 IST" duration-ms="16375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateForword -->
+      </class> <!-- TestScenarios.Navigation$TestSA_RemoteValLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
